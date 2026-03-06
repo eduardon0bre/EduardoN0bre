@@ -34,9 +34,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 <br>
- 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/afe31acc-f06a-4f7c-84db-f3751f178e08" 
+  <img src="https://github.com/user-attachments/assets/dc488eaf-97db-43af-b5c0-b20f74ad67ab" 
      width="150%" 
      height="350px";"
 /></div>
