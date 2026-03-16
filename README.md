@@ -9,6 +9,7 @@
     <code>🎓 Formação</code> : <b>Estudante de Sistemas de Informação na UFR</b><br>
     <code>💻 Stack Principal</code> : <b>PHP, Adianti e Laravel</b><br>
     <code>🔭 Trabalhando em</code> : <b>Desenvolvimento Back-End</b><br>
+    <code>🚧 Projetos em Andamento</code> : <b><a href="https://acheinaufr.vercel.app/">Achei na UFR</a><br>
     <code>💬 Pergunte sobre</code> : <b>APIs RESTful, Banco de Dados, Qualidade de Código e IA</b>
   </p>
 </div>
