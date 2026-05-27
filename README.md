@@ -4,20 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Eduardo+Nobre!;Desenvolvedor+Back-end;Welcome!" alt="Typing SVG" />
   </a>
 </div>
+
 <br>
 
-```ts
-const Eduardo = {
-  role:        "Developer",
-  university:  "Sistemas de Informação @ UFR",
-  location:    "Rondonopolis, MT — Brasil",
-  stack:       ["PHP", "Java", "TypeScript", "React", "Node.js"],
-  databases:   ["PostgreSQL", "MySQL"],
-  infra:       ["Docker", "Linux", "CI/CD"],
-  working_on:  ["SOGG (SaaS Fleet Tracking)", "Achei na UFR"],
-  ask_me:      ["APIs RESTful", "DDD", "Qualidade de Codigo"],
-};
-```
+<div align="center">
+  <p>
+    💼 <b>Perfil:</b> Desenvolvedor de Software (Back-end)<br>
+    🎓 <b>Formação:</b> Sistemas de Informação @ UFR<br>
+    📍 <b>Localização:</b> Rondonópolis, MT — Brasil<br>
+    💻 <b>Stack:</b> PHP, Java, TypeScript, React e Node.js<br>
+    🗄️ <b>Bancos de Dados:</b> PostgreSQL e MySQL<br>
+    ⚙️ <b>Infra & DevOps:</b> Docker, Linux e CI/CD<br>
+    🚀 <b>Trabalhando em:</b> SOGG (SaaS Rastreamento de Frotas) e Achei na UFR<br>
+  </p>
+</div>
 
 ---
 
@@ -45,17 +45,15 @@ const Eduardo = {
   <img src="https://img.shields.io/badge/Adianti-151515?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-## Projetos Ativos
-| Projeto | Descricao | Status |
-|---|---|---|
-| [AcheiNaUFR](https://github.com/JoaoVictorOAS) | Plataforma de ajuda para ajudar alunos | Ativo |
-| [Crypto Wallet](https://github.com/eduardon0bre/portfolio_tracking) | Calculo de media a partir de PM e quantidade de tokens | Ativo |
-
 ---
+
+## 🚀 Projetos Ativos
+| Projeto | Descrição | Status |
+|---|---|---|
+| [AcheiNaUFR](https://github.com/JoaoVictorOAS) | Plataforma para ajudar alunos da universidade | Ativo |
+| [Crypto Wallet](https://github.com/eduardon0bre/portfolio_tracking) | Cálculo de média a partir de PM e quantidade de tokens | Ativo |
 
 <br>
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/dc488eaf-97db-43af-b5c0-b20f74ad67ab" 
-     width="150%" 
-     height="350px";"
-/></div>
+  <img src="https://github.com/user-attachments/assets/dc488eaf-97db-43af-b5c0-b20f74ad67ab" width="150%" height="350px"/>
+</div>
