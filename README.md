@@ -51,7 +51,8 @@
 | Projeto | Descrição | Status |
 |---|---|---|
 | [AcheiNaUFR](https://github.com/JoaoVictorOAS) | Plataforma para ajudar alunos da universidade | Ativo |
-| [Crypto Wallet](https://github.com/eduardon0bre/portfolio_tracking) | Cálculo de média a partir de PM e quantidade de tokens | Ativo |
+| [Search Wallet](https://github.com/eduardon0bre/portfolio_tracking) | Busca de tokens e histórico de uma carteira cripto pelo seu endereço público | Ativo |
+| [Crypto Wallet](https://github.com/eduardon0bre/search_wallet_cripto) | Cálculo de média a partir de PM e quantidade de tokens | pausado |
 
 <br>
 <div align="center"> 
