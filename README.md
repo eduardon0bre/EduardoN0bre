@@ -12,10 +12,8 @@
     💼 <b>Perfil:</b> Desenvolvedor de Software (Back-end)<br>
     🎓 <b>Formação:</b> Sistemas de Informação @ UFR<br>
     📍 <b>Localização:</b> Rondonópolis, MT — Brasil<br>
-    💻 <b>Stack:</b> PHP, Java, TypeScript, React e Node.js<br>
+    💻 <b>Stack:</b> PHP, Java e TypeScript<br>
     🗄️ <b>Bancos de Dados:</b> PostgreSQL e MySQL<br>
-    ⚙️ <b>Infra & DevOps:</b> Docker, Linux e CI/CD<br>
-    🚀 <b>Trabalhando em:</b> SOGG (SaaS Rastreamento de Frotas) e Achei na UFR<br>
   </p>
 </div>
 
