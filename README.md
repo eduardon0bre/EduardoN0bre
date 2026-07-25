@@ -48,7 +48,7 @@
 ## Projetos Ativos
 | Projeto | Descrição | Status |
 |---|---|---|
-| [AcheiNaUFR](https://github.com/JoaoVictorOAS) | Plataforma para ajudar alunos da universidade | Ativo |
+| [AcheiNaUFR](https://acheinaufr.vercel.app/) | Plataforma para ajudar alunos da universidade | Ativo |
 | [Search Wallet](https://github.com/eduardon0bre/search_wallet_cripto) | Busca de tokens e histórico de uma carteira cripto pelo seu endereço público | Ativo |
 
 <br>
