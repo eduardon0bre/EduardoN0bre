@@ -1,57 +1,105 @@
-<br>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Eduardo+Nobre!;Desenvolvedor+Back-end;Welcome!" alt="Typing SVG" />
-  </a>
-</div>
+# Eduardo Nobre
 
-<br>
+**Desenvolvedor Back-end | PHP | Laravel | APIs REST | Docker**
 
-<div align="center">
-  <p>
-    💼 <b>Perfil:</b> Desenvolvedor de Software (Back-end)<br>
-    🎓 <b>Formação:</b> Sistemas de Informação @ UFR<br>
-    📍 <b>Localização:</b> Rondonópolis, MT — Brasil<br>
-    💻 <b>Stack:</b> PHP, Java e TypeScript<br>
-    🗄️ <b>Bancos de Dados:</b> PostgreSQL e MySQL<br>
-  </p>
-</div>
+Desenvolvedor Back-end com experiência no desenvolvimento, manutenção e evolução de aplicações corporativas. Atualmente atuo principalmente com PHP, trabalhando com sistemas voltados para gestão financeira, transporte, controle de frotas e emissão de documentos fiscais.
+
+Tenho experiência tanto no desenvolvimento de novas funcionalidades quanto na manutenção de sistemas legados, implementação de regras de negócio, integrações com APIs e serviços externos e otimização de código e consultas SQL.
+
+Também atuo em tarefas relacionadas à infraestrutura e operação das aplicações, utilizando Docker, Linux, cron, Supervisor, jobs, filas, CI/CD e automação de backups e deploys.
 
 ---
 
-<div align="center">
-  <h3>Tecnologias</h3>
-  <img src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-151515?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/JUnit-151515?style=for-the-badge&logo=junit5&logoColor=white">
-  <img src="https://img.shields.io/badge/Filament-151515?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Adianti-151515?style=for-the-badge&logo=php&logoColor=white">
-</div>
+## Sobre mim
+
+- Desenvolvedor Web com foco em **Back-end**
+- Experiência profissional com **PHP, Laravel e Adianti Framework**
+- Desenvolvimento e integração de **APIs REST**
+- Experiência com **sistemas fiscais e processamento de documentos eletrônicos**
+- Desenvolvimento de **jobs, filas e processos assíncronos**
+- Otimização de código e consultas **SQL**
+- Experiência com **MySQL e PostgreSQL**
+- Utilização de **Docker e Docker Compose**
+- Administração básica de ambientes Linux e serviços de aplicação
+- Configuração e manutenção de **cron e Supervisor**
+- Experiência com **CI/CD e deploy automatizado**
+- Integração com serviços externos e APIs de terceiros
+- Análise de requisitos e implementação de regras de negócio
 
 ---
 
-## Projetos Ativos
-| Projeto | Descrição | Status |
-|---|---|---|
-| [AcheiNaUFR](https://acheinaufr.vercel.app/) | Plataforma para ajudar alunos da universidade | Ativo |
-| [Search Wallet](https://github.com/eduardon0bre/search_wallet_cripto) | Busca de tokens e histórico de uma carteira cripto pelo seu endereço público | Ativo |
+## Principais tecnologias
 
-<br>
-<div align="center"> 
-  <img src="https://github.com/user-attachments/assets/dc488eaf-97db-43af-b5c0-b20f74ad67ab" width="150%" height="350px"/>
-</div>
+### Back-end
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Adianti](https://img.shields.io/badge/Adianti-Framework-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Front-end
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Bancos de dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Infraestrutura e ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## Experiência técnica
+
+**Desenvolvimento:** aplicações corporativas, regras de negócio, APIs REST, integrações, sistemas legados, processamento de XML/documentos fiscais, jobs e filas.
+
+**Banco de dados:** MySQL e PostgreSQL, com experiência em SQL, migrations, análise e otimização de consultas.
+
+**Infraestrutura:** Docker, Linux, Apache, Cron, Supervisor, Git, GitHub Actions, CI/CD, deploy e backups automatizados.
+
+## Projetos
+
+### AcheiNaUFR
+
+[acheinaufr.vercel.app](https://acheinaufr.vercel.app/)
+
+Um projeto dedicado à comunidade da Universidade Federal de Rondonópolis, ajuda na busca e na entrega de items perdidos dentro da falculdade.
+
+**Status:** Em desenvolvimento
+
+---
+
+### Search Wallet
+
+[GitHub](https://github.com/eduardon0bre/search_wallet_cripto)
+
+Projeto voltado para consulta de carteiras de criptomoedas a partir de seu endereço público, permitindo buscar informações sobre tokens e histórico de movimentações.
+
+**Status:** Em desenvolvimento
+
+---
+
+## Formação
+
+**Bacharelado em Sistemas de Informação**  
+Universidade Federal de Rondonópolis — UFR
+
+**Técnico em Informática**  
+Instituto Federal de Mato Grosso — IFMT
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/eduardo-nobre-a90026332) · [GitHub](https://github.com/eduardon0bre)
