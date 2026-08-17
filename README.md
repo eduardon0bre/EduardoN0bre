@@ -57,14 +57,6 @@ Também atuo em tarefas relacionadas à infraestrutura e operação das aplicaç
 
 ---
 
-## Experiência técnica
-
-**Desenvolvimento:** aplicações corporativas, regras de negócio, APIs REST, integrações, sistemas legados, processamento de XML/documentos fiscais, jobs e filas.
-
-**Banco de dados:** MySQL e PostgreSQL, com experiência em SQL, migrations, análise e otimização de consultas.
-
-**Infraestrutura:** Docker, Linux, Apache, Cron, Supervisor, Git, GitHub Actions, CI/CD, deploy e backups automatizados.
-
 ## Projetos
 
 ### AcheiNaUFR
