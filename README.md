@@ -14,18 +14,15 @@ Também atuo em tarefas relacionadas à infraestrutura e operação das aplicaç
 
 - Desenvolvedor Web com foco em **Back-end**
 - Experiência profissional com **PHP, Laravel e Adianti Framework**
-- Desenvolvimento e integração de **APIs REST**
 - Experiência com **sistemas fiscais e processamento de documentos eletrônicos**
 - Desenvolvimento de **jobs, filas e processos assíncronos**
 - Otimização de código e consultas **SQL**
 - Experiência com **MySQL e PostgreSQL**
-- Utilização de **Docker e Docker Compose**
-- Administração básica de ambientes Linux e serviços de aplicação
+- Utilização de **Docker**
 - Configuração e manutenção de **cron e Supervisor**
 - Experiência com **CI/CD e deploy automatizado**
 - Integração com serviços externos e APIs de terceiros
-- Análise de requisitos e implementação de regras de negócio
-
+  
 ---
 
 ## Principais tecnologias
@@ -75,7 +72,6 @@ Também atuo em tarefas relacionadas à infraestrutura e operação das aplicaç
 [acheinaufr.vercel.app](https://acheinaufr.vercel.app/)
 
 Um projeto dedicado à comunidade da Universidade Federal de Rondonópolis, ajuda na busca e na entrega de items perdidos dentro da falculdade.
-
 **Status:** Em desenvolvimento
 
 ---
@@ -85,7 +81,6 @@ Um projeto dedicado à comunidade da Universidade Federal de Rondonópolis, ajud
 [GitHub](https://github.com/eduardon0bre/search_wallet_cripto)
 
 Projeto voltado para consulta de carteiras de criptomoedas a partir de seu endereço público, permitindo buscar informações sobre tokens e histórico de movimentações.
-
 **Status:** Em desenvolvimento
 
 ---
