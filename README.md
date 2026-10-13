@@ -1,7 +1,5 @@
 # Eduardo Nobre
 
-**Desenvolvedor Back-end | PHP | Laravel | APIs REST | Docker**
-
 Desenvolvedor Back-end com experiência no desenvolvimento, manutenção e evolução de aplicações corporativas. Atualmente atuo principalmente com PHP, trabalhando com sistemas voltados para gestão financeira, transporte, controle de frotas e emissão de documentos fiscais.
 
 Tenho experiência tanto no desenvolvimento de novas funcionalidades quanto na manutenção de sistemas legados, implementação de regras de negócio, integrações com APIs e serviços externos e otimização de código e consultas SQL.
