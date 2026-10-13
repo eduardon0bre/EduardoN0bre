@@ -13,7 +13,7 @@ Também atuo em tarefas relacionadas à infraestrutura e operação das aplicaç
 ## Sobre mim
 
 - Desenvolvedor Web com foco em **Back-end**
-- Experiência profissional com **PHP, Laravel e Adianti Framework**
+- Experiência com **PHP, Laravel, Adianti e Java**
 - Experiência com **sistemas fiscais e processamento de documentos eletrônicos**
 - Desenvolvimento de **jobs, filas e processos assíncronos**
 - Otimização de código e consultas **SQL**
